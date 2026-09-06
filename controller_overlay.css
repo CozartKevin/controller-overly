@@ -9,7 +9,7 @@
 }
 
 .xbox.white {
-  background: url(xbox-assets/base-white.svg);
+  background: url(https://github.com/CozartKevin/controller-overly/blob/main/base-pink.svg);
 }
 
 .xbox.disconnected {
@@ -143,7 +143,7 @@
 
 .xbox .button {
   position: absolute;
-  background: url(xbox-assets/abxy.svg);
+  background: url(https://github.com/CozartKevin/controller-overly/blob/main/abxy_Pink.svg);
   width: 48px;
   height: 48px;
 }
