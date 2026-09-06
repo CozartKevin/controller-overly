@@ -1,14 +1,7 @@
-.controller,
-.controller.xbox,
 .controller.xbox.edit {
-    background: red !important;
-    outline: 20px solid lime !important;
+    background-image: url("https://cozartkevin.github.io/controller-overly/base-pink.svg") !important;
 }
 
-
-
-
-
 .controller.xbox.edit .button {
-    background-image: url("https://raw.githubusercontent.com/CozartKevin/controller-overly/refs/heads/main/abxy_Pink.svg") !important;
+    background-image: url("https://cozartkevin.github.io/controller-overly/abxy_Pink.svg") !important;
 }
