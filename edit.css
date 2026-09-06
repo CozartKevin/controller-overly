@@ -1,7 +1,7 @@
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-  background: url(https://raw.githubusercontent.com/CozartKevin/controller-overly/refs/heads/main/base-pink.svg;
+ background-image: url("https://raw.githubusercontent.com/CozartKevin/controller-overly/refs/heads/main/base-pink.svg") !important;
   height: 630px;
   width: 750px;
   /*    margin-left: -375px;
@@ -9,7 +9,7 @@
 }
 
 .xbox.white {
-  background: url(base-pink.svg);
+  background: url(https://raw.githubusercontent.com/CozartKevin/controller-overly/refs/heads/main/base-pink.svg);
 }
 
 .xbox.disconnected {
@@ -143,7 +143,7 @@
 
 .xbox .button {
   position: absolute;
-  background: url(abxy_Pink.svg);
+background-image: url("https://raw.githubusercontent.com/CozartKevin/controller-overly/refs/heads/main/abxy_Pink.svg") !important;
   width: 48px;
   height: 48px;
 }
